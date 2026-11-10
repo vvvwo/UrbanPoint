@@ -1,0 +1,9 @@
+# Install CUDA-specific PyTorch, torch-scatter and spconv separately (README).
+# numpy.distutils in the existing C++ build requires NumPy < 2.
+numpy<2
+scipy
+pandas
+addict
+timm
+scikit-learn
+plyfile

@@ -9,15 +9,15 @@ main.py                         Command-line entry point for training and infere
 trainer.py / tester.py          Training and inference implementations
 configs/urban_seg.py            Inference configuration for individual scenes
 configs/urban_seg_train.py      UrbanBIS training configuration
-utils/model/                   Model implementation
-utils/datasets/                Datasets and batch collation
-utils/preprocess/              UrbanBIS, SensatUrban, and individual-scene preprocessing
-utils/augmentations/           Data augmentation
-utils/losses/                  Loss functions
-utils/serialization/           Point cloud serialization
+utils/model/                    Model implementation
+utils/datasets/                 Datasets and batch collation
+utils/preprocess/               UrbanBIS, SensatUrban, and individual-scene preprocessing
+utils/augmentations/            Data augmentation
+utils/losses/                   Loss functions
+utils/serialization/            Point cloud serialization
 utils/cpp_wrappers/             voxel_height C++ extension and supporting source code
 LabelsFileGenerate.py           Predicted label export and semantic coloring
-plyRGBcorrect.py               PLY RGB conversion utility
+plyRGBcorrect.py                PLY RGB conversion utility
 ```
 
 ## Environment setup

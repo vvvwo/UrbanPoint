@@ -1,8 +1,6 @@
 # Urban Point Cloud Segmentation
 
-Source code for urban point cloud semantic segmentation, including the UrbanSeg model, UrbanBIS data loading and preprocessing, training, and inference on individual scenes.
-
-**This repository contains source code only. Datasets, pretrained weights, training checkpoints, predicted point clouds, logs, and intermediate results are not included.** Inference requires a compatible checkpoint that you provide. You can also train a model using your own prepared data.
+Source code for urban point cloud semantic segmentation, including the UrbanSeg model, UrbanBIS data loading and preprocessing, training, and inference on individual scenes. Inference requires a compatible checkpoint that you provide. You can also train a model using your own prepared data.
 
 ## Repository structure
 

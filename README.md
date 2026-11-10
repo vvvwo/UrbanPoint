@@ -1,4 +1,4 @@
-# UrbanSeg
+# Urban Point Cloud Segmentation
 
 Source code for urban point cloud semantic segmentation, including the UrbanSeg model, UrbanBIS data loading and preprocessing, training, and inference on individual scenes.
 
